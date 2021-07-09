@@ -1,0 +1,24 @@
+body{
+    font-family: arial, Helvetica, sans-serif;
+    background-color: teal;
+    background-image: url('../image/banner.jpg');
+}
+img{
+    align-content: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    align: center;
+}
+p{
+    color:rgb(255, 255, 255)
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+div{
+    list-style-position: center;
+}
